@@ -1,3 +1,3 @@
 # Introduction to smallest-multiple
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+Solution to problem 5 of the Euler project (https://projecteuler.net/problem=5). More clojure practice (smile). 
