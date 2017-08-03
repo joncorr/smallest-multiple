@@ -10,4 +10,10 @@
  (testing "2520 is NOT divisible by all numbers from 1 to 20"
    (is false? (smallest-multiple? 2520 20))))
 
+ (deftest find-smallest-multiple-from1to10-2520
+  (testing "2520 is the smallest-multiple divisible by 1 ... 10"
+     (is true? (find-smallest-multiple 10))))
+
+ 
+
 ; (run-tests 'smallest-multiple.core-test)
